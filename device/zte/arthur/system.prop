@@ -23,6 +23,7 @@ persist.rild.nitz_short_ons_3=
 ril.subscription.types=NV,RUIM
 ro.ril.disable.power.collapse=0
 DEVICE_PROVISIONED=1
+ro.use_data_netmgrd=true
 
 ro.screen.layout=normal
 ro.sf.lcd_density=240
